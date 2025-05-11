@@ -1,0 +1,18 @@
+# Node modules (if you ever add npm tools)
+node_modules/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE metadata
+.vscode/
+.idea/
+
+# Build artifacts (optional, if using a bundler)
+dist/
+build/
+
+# Logs and environment
+*.log
+.env
