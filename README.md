@@ -24,8 +24,8 @@ Initial release — fully playable with basic UI, combat, and enemy waves.
 
 | Hero         | Cost | Role                         |
 |--------------|------|------------------------------|
-| Young Krealer | 50  | Generates energy orbs every 5s |
-| Zealer        | 100 | Ranged attacker (shoots every 2s) |
+| Young Krealer | 50  | Generates energy orbs every 12s |
+| Zealer        | 100 | Ranged attacker (shoots every 5s) |
 | Thavira       | 75  | Defensive blocker (Wall-nut style) |
 | Remove        | 0   | Deletes a hero from a tile     |
 
