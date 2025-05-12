@@ -6,8 +6,8 @@ A web-based tower defense game inspired by Plants vs. Zombies — defend your gr
 
 ## 🎮 Play Now
 
-> **Live demo (coming soon!)**  
-> Hosted version: [your-link-here]
+> **Live demo!**  
+> Hosted version: [(https://krealer.github.io/bloomfall-vs-magical-forest/)]
 
 Or clone and run locally (see below).
 
